@@ -1,0 +1,10 @@
+{
+  "name": "nextvpn-surge-bridge",
+  "version": "1.0.0",
+  "description": "Surge VLESS Reality Cloud Bridge",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
